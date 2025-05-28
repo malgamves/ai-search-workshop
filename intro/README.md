@@ -5,4 +5,4 @@ Welcome to AI Search.
 
 
 You would also need to run this command
-- `git clone -b search-workshop git@github.com:weaviate/recipes-ts.git`
+- `git clone -b search-workshop https://github.com/weaviate/recipes-ts.git`
