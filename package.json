@@ -1,0 +1,11 @@
+{
+  "name": "ai-search-workshop",
+  "version": "1.0.0",
+  "description": "At the end of this workshop, you too will have an idea of how to go about building AI-enabled experiences over YOUR data with the latest and greatest in AI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
